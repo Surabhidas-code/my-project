@@ -1,0 +1,10 @@
+Plant name,Scientific name,Disease type,Disease name,causes,Recommended nutrients, Nutrition type,Requirement level
+Kuhiyar,Saccharum offinarum,Fungal,Leaf spot,Cercospora species,"Nitrogen, potassium",Macro+micro,Medium
+Kuhiyar,Saccharum offinarum,Fungal,Rust,Puccinia melanocephala,"Potassium, sulphur",Macro+micro,Medium
+Kuhiyar,Saccharum offinarum,Fungal,Wlit,Fusarium species,"Nitrogen, phosphorus",Macronutrient,High
+Kuhiyar,Saccharum offinarum,Bacterial,Blight,Xanthomonas albilineans,"Potassium, calcium",Secondary+micro,High
+Kuhiyar,Saccharum offinarum,Bacterial,Canker,Xanthomonas or Pseudomonas species,"Calcium, potassium",Secondary+micro,Medium
+Kuhiyar,Saccharum offinarum,Viral,Leaf mosaic,Sugarcane mosaic virus (SCMV),"Potassium, zinc",Macro+micro,Low-medium
+Kuhiyar,Saccharum offinarum,Viral,Ringspot,Leptosphaaeria sacchari(teleomorph),"Potassium, iron",Macro+micro,Medium
+Kuhiyar,Saccharum offinarum,Nematode,Root knot,Meloidogyne species,"Phosphorus, potassium",Macro+organic,High
+Kuhiyar,Saccharum offinarum,Nematode,Dagger nematode,Xiphinema species,"Potassium, calcium",Secondary+organic,High
